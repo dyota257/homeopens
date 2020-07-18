@@ -1,0 +1,5 @@
+node_modules/
+Outputs/
+crawler-object.js
+homeopens.ps1
+package-lock.json
